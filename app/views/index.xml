@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<View id="fabContainer"/>
+		<View id="famContainer"/>
+	</Window>
+</Alloy>
