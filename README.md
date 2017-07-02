@@ -5,7 +5,7 @@ A Floating Action Button represents the primary action in an application.
 Project originally posted on LoopModules: https://loopmodules.com/downloads/ti-fab/
 
 ![alt text](https://i2.wp.com/loopmodules.com/wp-content/uploads/edd/2016/09/1wJtS.png?w=329&ssl=1)
-![alt text](https://i2.wp.com/loopmodules.com/wp-content/uploads/2016/09/patterns_actions_fab2.png?w=720&ssl=1)
+![alt text](https://i2.wp.com/loopmodules.com/wp-content/uploads/2016/09/patterns_actions_fab2.png?w=329&ssl=1)
 
 # Environment setup
 This module was tested and developed with the following environment:
@@ -43,4 +43,4 @@ You can use whatever icon you want by simply placing them inside your project’
 When creating the component with “createFloatingActionButton”, just pass a parameter named “icon” with the name of the icon image file.
 
 # Demo
-![alt text](https://i0.wp.com/loopmodules.com/wp-content/uploads/edd/2016/09/Screen-Shot-2016-09-09-at-5.17.11-PM.png?w=591&ssl=1)
+![alt text](https://i0.wp.com/loopmodules.com/wp-content/uploads/edd/2016/09/Screen-Shot-2016-09-09-at-5.17.11-PM.png?w=400&ssl=1)
